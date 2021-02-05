@@ -43,3 +43,9 @@ padding: 90px 90px 90px 90px;
     width:480px;
     border-radius: 30px;
 }
+
+
+.leyenda{
+    background-color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
