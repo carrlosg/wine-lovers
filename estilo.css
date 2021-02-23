@@ -1,5 +1,4 @@
 
-
 .pieDePagina{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     display: flex;
@@ -69,6 +68,12 @@ padding: 90px 90px 90px 90px;
 }
 
 .comprar{
+    background-color: #5e2129;
+    color: white;
+    border-color: white ;
+}
+
+.registrar{
     background-color: #5e2129;
     color: white;
     border-color: white ;
